@@ -1,0 +1,82 @@
+<div class="container">
+    <div class="mt-5 mb-3">
+        <h2>Productos <span id="text1"></span></h2>
+        <div class="container d-flex flex-wrap justify-content-around" id="prodData">
+            <!-- data here -->
+        </div>
+    </div>
+    <br>
+    <hr />
+    <br>
+    <div class="mb-3">
+        <h2>Centro de mensajes - <span id="porcentaje"></span></h2>
+        <div style="width:60%; margin: auto">
+            <form onsubmit="return sendMsg()">
+                <div class="mb-3">
+                    <input type="email" class="form-control" id="email" name="email" placeholder="Email">
+                </div>
+                <div class="mb-3">
+                    <input type="text" class="form-control" id="nombre" name="nombre" placeholder="Nombre">
+                </div>
+                <div class="mb-3">
+                    <input type="text" class="form-control" id="apellido" name="apellido" placeholder="Apellido">
+                </div>
+                <div class="mb-3">
+                    <input type="text" class="form-control" id="edad" name="edad" placeholder="Edad">
+                </div>
+                <div class="mb-3">
+                    <input type="text" class="form-control" id="alias" name="alias" placeholder="Alias">
+                </div>
+                <div class="mb-3">
+                    <input type="text" class="form-control" id="avatar" name="avatar" placeholder="Avatar (URL)">
+                </div>
+                <div class="mb-3">
+                    <textarea class="form-control" style="height: 90px;" id="mensaje" name="mensaje"
+                        placeholder="Mensaje"></textarea>
+                </div>
+                <div class="mb-3">
+                    <input type="submit" value="Enviar mensaje" class="btn btn-dark" />
+                </div>
+            </form>
+        </div>
+        <br>
+        <div class="container chat" id="chatContainer">
+
+        </div>
+    </div>
+</div>
+<script src="https://cdn.jsdelivr.net/npm/normalizr@3.6.1/dist/normalizr.browser.min.js"></script>
+<script src="/socket.io/socket.io.js"></script>
+<script src="/index.js"></script>
+
+<script>
+    function getCart(){
+    const cartItem = document.getElementById('cartQty');
+        fetch(`/api/carritos/{{cart}}/productos`)
+            .then(res => res.json())
+            .then(res => {
+                cartItem.innerText = res.length
+            })
+            .catch(err => console.log(err))
+    }
+    getCart()
+
+    function addToCart(prod){
+        const Data = {
+            id: prod
+        }
+        fetch(`/api/carritos/{{cart}}/productos`, {
+            headers: {
+                'Accept': 'application/json',
+                'Content-Type': 'application/json'
+            },
+            method: "POST",
+            body: JSON.stringify(Data)
+        })
+            .then(res => getCart() )
+            .catch(err => console.log(res) )
+        
+        console.log(prod)
+        getCart()
+    }
+</script>

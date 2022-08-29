@@ -1,0 +1,120 @@
+[2022-08-14T20:36:32.012] [ERROR] error - Pagina no encontrada /api/carritos/10
+[2022-08-14T21:23:01.141] [ERROR] error - Pagina no encontrada /api/chats
+[2022-08-15T01:37:09.793] [ERROR] error - Pagina no encontrada /api/prod
+[2022-08-15T03:30:44.465] [ERROR] error - Pagina no encontrada /asdasd
+[2022-08-15T03:30:57.428] [ERROR] error - Pagina no encontrada /asdasd
+[2022-08-15T03:31:01.170] [ERROR] error - Pagina no encontrada /asdasd
+[2022-08-15T18:57:39.411] [ERROR] error - Pagina no encontrada /api/randoms/cant
+[2022-08-15T18:57:47.594] [ERROR] error - Pagina no encontrada /randoms/cant
+[2022-08-15T18:58:06.295] [ERROR] error - Pagina no encontrada /randoms
+[2022-08-15T20:47:18.490] [ERROR] error - Pagina no encontrada /api/carrito
+[2022-08-15T20:47:24.055] [ERROR] error - Pagina no encontrada /api/carritos
+[2022-08-15T20:47:37.015] [ERROR] error - Pagina no encontrada /api/carrito
+[2022-08-15T20:49:44.180] [ERROR] error - Pagina no encontrada /api/carrito/62e2ec4f7fb23ea6eac98e03/productos
+[2022-08-15T20:57:20.205] [ERROR] error - Pagina no encontrada /api/carritos/62ebf3aa8b8448aee1c87d06
+[2022-08-16T01:01:36.456] [ERROR] error - Pagina no encontrada /api/carritos
+[2022-08-17T04:19:07.169] [ERROR] error - Pagina no encontrada /Lalala@hotmail.com
+[2022-08-17T04:20:14.136] [ERROR] error - Pagina no encontrada /admin/Lalala@hotmail.com
+[2022-08-17T04:20:34.583] [ERROR] error - Pagina no encontrada /admin/Lalala@hotmail.com
+[2022-08-17T04:22:57.829] [ERROR] error - Pagina no encontrada /admin/Lalala@hotmail.com
+[2022-08-17T04:29:13.040] [ERROR] error - Pagina no encontrada /admin/Lalala@hotmail.com
+[2022-08-17T04:35:17.829] [ERROR] error - Pagina no encontrada /admin/Lalala@hotmail.com
+[2022-08-17T04:37:10.530] [ERROR] error - Pagina no encontrada /admin/Lalala@hotmail.com
+[2022-08-17T04:37:43.593] [ERROR] error - Pagina no encontrada /admin/Lalala@hotmail.com
+[2022-08-17T04:39:09.088] [ERROR] error - Pagina no encontrada /admin/Lalala@hotmail.com
+[2022-08-17T04:40:27.592] [ERROR] error - Pagina no encontrada /admin/Lalala@hotmail.com
+[2022-08-17T04:42:35.244] [ERROR] error - Pagina no encontrada /admin/Lalala@hotmail.com
+[2022-08-17T04:43:37.043] [ERROR] error - Pagina no encontrada /admin/Lalala@hotmail.com
+[2022-08-17T04:44:56.581] [ERROR] error - Pagina no encontrada /admin/Lalala@hotmail.com
+[2022-08-17T04:47:13.364] [ERROR] error - Pagina no encontrada /admin/Lalala@hotmail.com
+[2022-08-17T04:48:12.293] [ERROR] error - Pagina no encontrada /admin/Lalala@hotmail.com
+[2022-08-17T04:48:58.967] [ERROR] error - Pagina no encontrada /admin/Lalala@hotmail.com
+[2022-08-17T04:53:42.032] [ERROR] error - Pagina no encontrada /admin/Lalala@hotmail.com
+[2022-08-17T04:53:47.865] [ERROR] error - Pagina no encontrada /admin/Lalala@hotmail.com
+[2022-08-17T04:53:52.027] [ERROR] error - Pagina no encontrada /admin/Lalala@hotmail.com
+[2022-08-17T04:53:57.810] [ERROR] error - Pagina no encontrada /admin/Lalala@hotmail.com
+[2022-08-17T04:54:14.493] [ERROR] error - Pagina no encontrada /admin/Lalala@hotmail.com
+[2022-08-17T04:57:00.586] [ERROR] error - Pagina no encontrada /admin/Lalala@hotmail.com
+[2022-08-17T05:02:09.411] [ERROR] error - Pagina no encontrada /admin/Lalala@hotmail.com
+[2022-08-17T05:03:27.408] [ERROR] error - Pagina no encontrada /admin/Lalala@hotmail.com
+[2022-08-17T05:03:37.882] [ERROR] error - Pagina no encontrada /admin/Lalala@hotmail.com
+[2022-08-17T05:04:00.822] [ERROR] error - Pagina no encontrada /admin/Lalala@hotmail.com
+[2022-08-17T05:06:06.957] [ERROR] error - Pagina no encontrada /admin/Lalala@hotmail.com
+[2022-08-17T05:07:44.410] [ERROR] error - Pagina no encontrada /admin/Lalala@hotmail.com
+[2022-08-17T05:08:04.126] [ERROR] error - Pagina no encontrada /admin/Lalala@hotmail.com
+[2022-08-17T05:09:33.978] [ERROR] error - Pagina no encontrada /admin/Lalala@hotmail.com
+[2022-08-17T05:10:47.935] [ERROR] error - Pagina no encontrada /admin/Lalala@hotmail.com
+[2022-08-17T05:11:18.299] [ERROR] error - Pagina no encontrada /admin/Lalala@hotmail.com
+[2022-08-17T05:12:02.370] [ERROR] error - Pagina no encontrada /admin/Lalala@hotmail.com
+[2022-08-17T05:12:13.609] [ERROR] error - Pagina no encontrada /admin/Lalala@hotmail.com
+[2022-08-17T05:13:25.538] [ERROR] error - Pagina no encontrada /admin/Lalala@hotmail.com
+[2022-08-17T17:55:34.087] [ERROR] error - Pagina no encontrada /Lalala@hotmail.com
+[2022-08-17T17:56:38.048] [ERROR] error - Error: invalid_grant: Token has been expired or revoked.
+    at C:\Users\Usuario\Documents\Programacion Coder\Programacion Backend\clase40\3RA_ENTREGA\node_modules\nodemailer\lib\xoauth2\index.js:272:33
+    at PassThrough.<anonymous> (C:\Users\Usuario\Documents\Programacion Coder\Programacion Backend\clase40\3RA_ENTREGA\node_modules\nodemailer\lib\xoauth2\index.js:341:20)
+    at Object.onceWrapper (node:events:509:28)
+    at PassThrough.emit (node:events:390:28)
+    at endReadableNT (node:internal/streams/readable:1343:12)
+    at processTicksAndRejections (node:internal/process/task_queues:83:21) {
+  code: 'EAUTH',
+  command: 'AUTH XOAUTH2'
+}
+[2022-08-17T17:59:16.163] [ERROR] error - Pagina no encontrada /admin/Lalala@hotmail.com
+[2022-08-17T18:03:39.342] [ERROR] error - Error: invalid_grant: Token has been expired or revoked.
+    at C:\Users\Usuario\Documents\Programacion Coder\Programacion Backend\clase40\3RA_ENTREGA\node_modules\nodemailer\lib\xoauth2\index.js:272:33
+    at PassThrough.<anonymous> (C:\Users\Usuario\Documents\Programacion Coder\Programacion Backend\clase40\3RA_ENTREGA\node_modules\nodemailer\lib\xoauth2\index.js:341:20)
+    at Object.onceWrapper (node:events:509:28)
+    at PassThrough.emit (node:events:390:28)
+    at endReadableNT (node:internal/streams/readable:1343:12)
+    at processTicksAndRejections (node:internal/process/task_queues:83:21) {
+  code: 'EAUTH',
+  command: 'AUTH XOAUTH2'
+}
+[2022-08-17T18:06:15.877] [ERROR] error - Error: invalid_grant: Token has been expired or revoked.
+    at C:\Users\Usuario\Documents\Programacion Coder\Programacion Backend\clase40\3RA_ENTREGA\node_modules\nodemailer\lib\xoauth2\index.js:272:33
+    at PassThrough.<anonymous> (C:\Users\Usuario\Documents\Programacion Coder\Programacion Backend\clase40\3RA_ENTREGA\node_modules\nodemailer\lib\xoauth2\index.js:341:20)
+    at Object.onceWrapper (node:events:509:28)
+    at PassThrough.emit (node:events:390:28)
+    at endReadableNT (node:internal/streams/readable:1343:12)
+    at processTicksAndRejections (node:internal/process/task_queues:83:21) {
+  code: 'EAUTH',
+  command: 'AUTH XOAUTH2'
+}
+[2022-08-17T18:06:27.381] [ERROR] error - Pagina no encontrada /admin/Lalala@hotmail.com
+[2022-08-17T18:06:32.908] [ERROR] error - Pagina no encontrada /admin/Lalala@hotmail.com
+[2022-08-17T18:07:11.805] [ERROR] error - Pagina no encontrada /admin/Lalala@hotmail.com
+[2022-08-17T18:08:26.653] [ERROR] error - Pagina no encontrada /admin/Lalala@hotmail.com
+[2022-08-17T18:11:36.195] [ERROR] error - Error: invalid_grant: Token has been expired or revoked.
+    at C:\Users\Usuario\Documents\Programacion Coder\Programacion Backend\clase40\3RA_ENTREGA\node_modules\nodemailer\lib\xoauth2\index.js:272:33
+    at PassThrough.<anonymous> (C:\Users\Usuario\Documents\Programacion Coder\Programacion Backend\clase40\3RA_ENTREGA\node_modules\nodemailer\lib\xoauth2\index.js:341:20)
+    at Object.onceWrapper (node:events:509:28)
+    at PassThrough.emit (node:events:390:28)
+    at endReadableNT (node:internal/streams/readable:1343:12)
+    at processTicksAndRejections (node:internal/process/task_queues:83:21) {
+  code: 'EAUTH',
+  command: 'AUTH XOAUTH2'
+}
+[2022-08-17T18:12:56.709] [ERROR] error - Pagina no encontrada /admin/Lalala@hotmail.com
+[2022-08-17T18:13:07.521] [ERROR] error - Error: invalid_grant: Token has been expired or revoked.
+    at C:\Users\Usuario\Documents\Programacion Coder\Programacion Backend\clase40\3RA_ENTREGA\node_modules\nodemailer\lib\xoauth2\index.js:272:33
+    at PassThrough.<anonymous> (C:\Users\Usuario\Documents\Programacion Coder\Programacion Backend\clase40\3RA_ENTREGA\node_modules\nodemailer\lib\xoauth2\index.js:341:20)
+    at Object.onceWrapper (node:events:509:28)
+    at PassThrough.emit (node:events:390:28)
+    at endReadableNT (node:internal/streams/readable:1343:12)
+    at processTicksAndRejections (node:internal/process/task_queues:83:21) {
+  code: 'EAUTH',
+  command: 'AUTH XOAUTH2'
+}
+[2022-08-17T18:18:37.528] [ERROR] error - Pagina no encontrada /admin/Lalala@hotmail.com
+[2022-08-17T18:19:32.144] [ERROR] error - Pagina no encontrada /admin/Lalala@hotmail.com
+[2022-08-17T18:20:38.751] [ERROR] error - Pagina no encontrada /admin/Lalala@hotmail.com
+[2022-08-17T18:21:09.700] [ERROR] error - Pagina no encontrada /admin/Lalala@hotmail.com
+[2022-08-23T13:28:10.794] [ERROR] error - Pagina no encontrada /api/propuctos
+[2022-08-28T17:22:01.917] [ERROR] error - Pagina no encontrada /graphiql.min.js.map
+[2022-08-28T17:22:01.919] [ERROR] error - Pagina no encontrada /unfetch.umd.js.map
+[2022-08-28T17:22:04.878] [ERROR] error - Pagina no encontrada /unfetch.umd.js.map
+[2022-08-28T17:22:06.017] [ERROR] error - Pagina no encontrada /graphiql.min.js.map
+[2022-08-28T17:26:37.502] [ERROR] error - Pagina no encontrada /unfetch.umd.js.map
+[2022-08-28T17:26:37.559] [ERROR] error - Pagina no encontrada /graphiql.min.js.map
+[2022-08-28T18:03:05.172] [ERROR] error - Pagina no encontrada /graphiql.min.js.map
+[2022-08-28T18:03:05.305] [ERROR] error - Pagina no encontrada /unfetch.umd.js.map

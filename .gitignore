@@ -1,0 +1,4 @@
+node_modules
+.env
+testing.js
+testing2.js

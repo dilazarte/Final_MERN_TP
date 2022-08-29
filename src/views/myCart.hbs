@@ -1,0 +1,76 @@
+<a href="/admin/" class="p-2 text-dark">Volver</a>
+<div class="container mt-5">
+    <h1>Lista de productos</h1>
+
+    <table class="table">
+        <thead>
+            <tr>
+                <th scope="col">Descripcion</th>
+                <th scope="col">Precio</th>
+                <th scope="col">Acción</th>
+            </tr>
+        </thead>
+        <tbody id="cartProds">
+            <!-- data here! -->
+        </tbody>
+    </table>
+    
+    <button onclick="confirmPurchase()" class="btn btn-secondary">Finalizar Compra</button>
+</div>
+
+
+<script>
+    function confirmPurchase(){
+        fetch(`/api/carritos/{{cart}}/confirmPurchase`, {
+            headers: {
+                'Accept': 'application/json',
+                'Content-Type': 'application/json'
+            },
+            method: 'POST'
+        })
+        .then(res => res.json())
+        .then(res => getCart())
+        .catch(err => console.log(err))
+    }
+
+    function deleteProd(id){
+        fetch(`/api/carritos/{{cart}}/productos/${id}`, {
+            method: 'DELETE'
+        })
+            .then(res => res.json())
+            .then(res => getCart())
+            .catch(err => console.log(err))
+    }
+
+    function getCart() {
+        const cartQty = document.getElementById('cartQty');
+        const cartItems = document.getElementById('cartProds');
+
+        fetch(`/api/carritos/{{cart}}/productos`)
+            .then(res => res.json())
+            .then(res => {
+                const data = res.map(el => {
+                    console.log(el)
+                    return(
+                        `
+                            <tr>
+                                <td>${el.descripcion}</td>
+                                <td>${el.precio}</td>
+                                <td>
+                                    <button 
+                                    onclick="deleteProd('${el._id}')"
+                                    class="btn btn-danger rounded">
+                                        X
+                                    </button>
+                                </td>
+                            </tr>
+                        `
+                    )
+                }).join('')
+                cartItems.innerHTML = data
+                cartQty.innerText = res.length
+            })
+            .catch(err => console.log(err))
+    }
+    getCart()
+</script>
