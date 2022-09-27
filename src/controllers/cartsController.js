@@ -1,4 +1,5 @@
 const { createCart, cartItems, deleteCartById, postAddItemToCart, deleteItemOnCartById, deleteAllOnCart } = require('../services/cartServices');
+const {generateOrder} = require('../services/ordersServices')
 const { getProdById } = require('../services/prodsServices')
 const { newOrder } = require('../utils/sendMail')
 const { sendWhatsapp } = require('../utils/sendWhatsapp')
@@ -56,14 +57,24 @@ async function deleteAllItemsOnCart(req, res){
 }
 
 async function postConfirmPurchase(req, res){
-    const user = req.user;
+    let user = req.user;
     let idCart = req.params.id_cart
     let prods = await cartItems(idCart)
     newOrder(user, prods.productos)
     sendWhatsapp(user, prods.productos)
+    let order = {
+        buyerName: user.firstName,
+        buyerEmail: user.email,
+        items: prods.productos,
+        status: 'Generada'
+    }
+    //console.log(order)
+    let orderTicket = await generateOrder(order)
+    //console.log(orderTicket)
 
     let deleteProds = await deleteAllOnCart(idCart)
-    res.status(200).json(deleteProds)
+    //res.status(200).json(deleteProds)
+    res.status(200).json({order: orderTicket})
 }
 
 module.exports = {postCreateCart, deleteCart, getProdsOnCart, postAddToCart, deleteItemOnCart, deleteAllItemsOnCart, postConfirmPurchase}

@@ -80,10 +80,12 @@ async function getCart(req, res){
         res.render('myCart', {
             name: user.firstName,
             lastName: user.lastName,
+            email: user.email,
             avatar: user.avatar,
             cart: user.cartRef,
             cartQty: Qty.productos.length,
-            session: true
+            session: true,
+            items: Qty.productos.length > 0 ? true : false
         })
     } else {
         res.redirect('/login')

@@ -118,3 +118,387 @@
 [2022-08-28T17:26:37.559] [ERROR] error - Pagina no encontrada /graphiql.min.js.map
 [2022-08-28T18:03:05.172] [ERROR] error - Pagina no encontrada /graphiql.min.js.map
 [2022-08-28T18:03:05.305] [ERROR] error - Pagina no encontrada /unfetch.umd.js.map
+[2022-09-19T20:53:00.536] [ERROR] error - Pagina no encontrada /foto.jpg
+[2022-09-19T20:53:01.478] [ERROR] error - Pagina no encontrada /Lalala@hotmail.com
+[2022-09-19T20:53:01.483] [ERROR] error - Pagina no encontrada /asdasadadd.com
+[2022-09-19T20:53:13.998] [ERROR] error - Pagina no encontrada /foto.jpg
+[2022-09-19T20:53:14.017] [ERROR] error - Pagina no encontrada /asdasadadd.com
+[2022-09-19T20:53:14.022] [ERROR] error - Pagina no encontrada /Lalala@hotmail.com
+[2022-09-19T20:53:24.069] [ERROR] error - Pagina no encontrada /admin/foto.jpg
+[2022-09-19T20:53:24.104] [ERROR] error - Pagina no encontrada /admin/Lalala@hotmail.com
+[2022-09-19T20:53:24.110] [ERROR] error - Pagina no encontrada /admin/asdasadadd.com
+[2022-09-19T20:55:30.622] [ERROR] error - Pagina no encontrada /admin/asdasadadd.com
+[2022-09-19T20:55:30.625] [ERROR] error - Pagina no encontrada /admin/Lalala@hotmail.com
+[2022-09-19T20:58:00.862] [ERROR] error - Pagina no encontrada /admin/asdasadadd.com
+[2022-09-19T20:58:00.869] [ERROR] error - Pagina no encontrada /admin/Lalala@hotmail.com
+[2022-09-19T20:58:21.895] [ERROR] error - Pagina no encontrada /admin/Lalala@hotmail.com
+[2022-09-19T20:58:21.909] [ERROR] error - Pagina no encontrada /admin/asdasadadd.com
+[2022-09-19T21:03:58.135] [ERROR] error - Pagina no encontrada /admin/Lalala@hotmail.com
+[2022-09-19T21:03:58.140] [ERROR] error - Pagina no encontrada /admin/asdasadadd.com
+[2022-09-20T19:36:24.491] [ERROR] error - Pagina no encontrada /asdasadadd.com
+[2022-09-20T19:36:24.494] [ERROR] error - Pagina no encontrada /Lalala@hotmail.com
+[2022-09-20T19:36:31.858] [ERROR] error - Pagina no encontrada /asdasadadd.com
+[2022-09-20T19:36:31.859] [ERROR] error - Pagina no encontrada /Lalala@hotmail.com
+[2022-09-20T19:36:41.277] [ERROR] error - Pagina no encontrada /asdasadadd.com
+[2022-09-20T19:36:41.279] [ERROR] error - Pagina no encontrada /Lalala@hotmail.com
+[2022-09-20T19:36:58.641] [ERROR] error - Pagina no encontrada /admin/Lalala@hotmail.com
+[2022-09-20T19:36:58.642] [ERROR] error - Pagina no encontrada /admin/asdasadadd.com
+[2022-09-20T19:38:30.063] [ERROR] error - Pagina no encontrada /admin/Lalala@hotmail.com
+[2022-09-20T19:38:30.065] [ERROR] error - Pagina no encontrada /admin/asdasadadd.com
+[2022-09-20T19:38:37.201] [ERROR] error - Pagina no encontrada /admin/Lalala@hotmail.com
+[2022-09-20T19:38:37.215] [ERROR] error - Pagina no encontrada /admin/asdasadadd.com
+[2022-09-20T19:38:44.759] [ERROR] error - Pagina no encontrada /admin/asdasadadd.com
+[2022-09-20T19:38:44.767] [ERROR] error - Pagina no encontrada /admin/Lalala@hotmail.com
+[2022-09-20T19:52:46.373] [ERROR] error - Pagina no encontrada /admin/asdasadadd.com
+[2022-09-20T19:52:46.381] [ERROR] error - Pagina no encontrada /admin/Lalala@hotmail.com
+[2022-09-20T20:02:46.255] [ERROR] error - Pagina no encontrada /admin/Lalala@hotmail.com
+[2022-09-20T20:02:46.264] [ERROR] error - Pagina no encontrada /admin/asdasadadd.com
+[2022-09-20T20:03:40.576] [ERROR] error - Pagina no encontrada /admin/Lalala@hotmail.com
+[2022-09-20T20:03:40.581] [ERROR] error - Pagina no encontrada /admin/asdasadadd.com
+[2022-09-23T23:06:28.567] [ERROR] error - Pagina no encontrada /asdasadadd.com
+[2022-09-23T23:06:28.575] [ERROR] error - Pagina no encontrada /Lalala@hotmail.com
+[2022-09-23T23:06:41.695] [ERROR] error - Pagina no encontrada /admin/Lalala@hotmail.com
+[2022-09-23T23:06:41.719] [ERROR] error - Pagina no encontrada /admin/asdasadadd.com
+[2022-09-23T23:12:16.191] [ERROR] error - Pagina no encontrada /admin/Lalala@hotmail.com
+[2022-09-23T23:12:16.197] [ERROR] error - Pagina no encontrada /admin/asdasadadd.com
+[2022-09-23T23:12:21.129] [ERROR] error - Pagina no encontrada /admin/Lalala@hotmail.com
+[2022-09-23T23:12:21.137] [ERROR] error - Pagina no encontrada /admin/asdasadadd.com
+[2022-09-25T01:30:18.312] [ERROR] error - Pagina no encontrada /asdasadadd.com
+[2022-09-25T01:30:18.322] [ERROR] error - Pagina no encontrada /Lalala@hotmail.com
+[2022-09-25T01:30:48.101] [ERROR] error - Error: invalid_grant: Token has been expired or revoked.
+    at C:\Users\Usuario\Documents\Programacion Coder\Programacion Backend\clase44\graphql\node_modules\nodemailer\lib\xoauth2\index.js:272:33
+    at PassThrough.<anonymous> (C:\Users\Usuario\Documents\Programacion Coder\Programacion Backend\clase44\graphql\node_modules\nodemailer\lib\xoauth2\index.js:341:20)
+    at Object.onceWrapper (node:events:509:28)
+    at PassThrough.emit (node:events:390:28)
+    at endReadableNT (node:internal/streams/readable:1343:12)
+    at processTicksAndRejections (node:internal/process/task_queues:83:21) {
+  code: 'EAUTH',
+  command: 'AUTH XOAUTH2'
+}
+[2022-09-25T01:31:55.893] [ERROR] error - Pagina no encontrada /admin/asdasadadd.com
+[2022-09-25T01:31:55.896] [ERROR] error - Pagina no encontrada /admin/Lalala@hotmail.com
+[2022-09-25T01:32:42.966] [ERROR] error - Error: invalid_grant: Token has been expired or revoked.
+    at C:\Users\Usuario\Documents\Programacion Coder\Programacion Backend\clase44\graphql\node_modules\nodemailer\lib\xoauth2\index.js:272:33
+    at PassThrough.<anonymous> (C:\Users\Usuario\Documents\Programacion Coder\Programacion Backend\clase44\graphql\node_modules\nodemailer\lib\xoauth2\index.js:341:20)
+    at Object.onceWrapper (node:events:509:28)
+    at PassThrough.emit (node:events:390:28)
+    at endReadableNT (node:internal/streams/readable:1343:12)
+    at processTicksAndRejections (node:internal/process/task_queues:83:21) {
+  code: 'EAUTH',
+  command: 'AUTH XOAUTH2'
+}
+[2022-09-25T01:36:28.371] [ERROR] error - Pagina no encontrada /admin/Lalala@hotmail.com
+[2022-09-25T01:36:28.378] [ERROR] error - Pagina no encontrada /admin/asdasadadd.com
+[2022-09-25T01:36:37.790] [ERROR] error - Error: invalid_grant: Token has been expired or revoked.
+    at C:\Users\Usuario\Documents\Programacion Coder\Programacion Backend\clase44\graphql\node_modules\nodemailer\lib\xoauth2\index.js:272:33
+    at PassThrough.<anonymous> (C:\Users\Usuario\Documents\Programacion Coder\Programacion Backend\clase44\graphql\node_modules\nodemailer\lib\xoauth2\index.js:341:20)
+    at Object.onceWrapper (node:events:509:28)
+    at PassThrough.emit (node:events:390:28)
+    at endReadableNT (node:internal/streams/readable:1343:12)
+    at processTicksAndRejections (node:internal/process/task_queues:83:21) {
+  code: 'EAUTH',
+  command: 'AUTH XOAUTH2'
+}
+[2022-09-25T01:37:36.803] [ERROR] error - Pagina no encontrada /admin/Lalala@hotmail.com
+[2022-09-25T01:37:36.816] [ERROR] error - Pagina no encontrada /admin/asdasadadd.com
+[2022-09-25T01:37:55.455] [ERROR] error - Error: invalid_grant: Token has been expired or revoked.
+    at C:\Users\Usuario\Documents\Programacion Coder\Programacion Backend\clase44\graphql\node_modules\nodemailer\lib\xoauth2\index.js:272:33
+    at PassThrough.<anonymous> (C:\Users\Usuario\Documents\Programacion Coder\Programacion Backend\clase44\graphql\node_modules\nodemailer\lib\xoauth2\index.js:341:20)
+    at Object.onceWrapper (node:events:509:28)
+    at PassThrough.emit (node:events:390:28)
+    at endReadableNT (node:internal/streams/readable:1343:12)
+    at processTicksAndRejections (node:internal/process/task_queues:83:21) {
+  code: 'EAUTH',
+  command: 'AUTH XOAUTH2'
+}
+[2022-09-25T01:40:42.089] [ERROR] error - Pagina no encontrada /admin/Lalala@hotmail.com
+[2022-09-25T01:40:42.103] [ERROR] error - Pagina no encontrada /admin/asdasadadd.com
+[2022-09-25T01:40:51.126] [ERROR] error - Error: invalid_grant: Token has been expired or revoked.
+    at C:\Users\Usuario\Documents\Programacion Coder\Programacion Backend\clase44\graphql\node_modules\nodemailer\lib\xoauth2\index.js:272:33
+    at PassThrough.<anonymous> (C:\Users\Usuario\Documents\Programacion Coder\Programacion Backend\clase44\graphql\node_modules\nodemailer\lib\xoauth2\index.js:341:20)
+    at Object.onceWrapper (node:events:509:28)
+    at PassThrough.emit (node:events:390:28)
+    at endReadableNT (node:internal/streams/readable:1343:12)
+    at processTicksAndRejections (node:internal/process/task_queues:83:21) {
+  code: 'EAUTH',
+  command: 'AUTH XOAUTH2'
+}
+[2022-09-25T01:43:48.657] [ERROR] error - Pagina no encontrada /admin/Lalala@hotmail.com
+[2022-09-25T01:43:48.677] [ERROR] error - Pagina no encontrada /admin/asdasadadd.com
+[2022-09-25T01:43:56.817] [ERROR] error - Error: invalid_grant: Token has been expired or revoked.
+    at C:\Users\Usuario\Documents\Programacion Coder\Programacion Backend\clase44\graphql\node_modules\nodemailer\lib\xoauth2\index.js:272:33
+    at PassThrough.<anonymous> (C:\Users\Usuario\Documents\Programacion Coder\Programacion Backend\clase44\graphql\node_modules\nodemailer\lib\xoauth2\index.js:341:20)
+    at Object.onceWrapper (node:events:509:28)
+    at PassThrough.emit (node:events:390:28)
+    at endReadableNT (node:internal/streams/readable:1343:12)
+    at processTicksAndRejections (node:internal/process/task_queues:83:21) {
+  code: 'EAUTH',
+  command: 'AUTH XOAUTH2'
+}
+[2022-09-25T01:45:42.019] [ERROR] error - Pagina no encontrada /admin/Lalala@hotmail.com
+[2022-09-25T01:45:42.031] [ERROR] error - Pagina no encontrada /admin/asdasadadd.com
+[2022-09-25T01:45:50.724] [ERROR] error - Error: invalid_grant: Token has been expired or revoked.
+    at C:\Users\Usuario\Documents\Programacion Coder\Programacion Backend\clase44\graphql\node_modules\nodemailer\lib\xoauth2\index.js:272:33
+    at PassThrough.<anonymous> (C:\Users\Usuario\Documents\Programacion Coder\Programacion Backend\clase44\graphql\node_modules\nodemailer\lib\xoauth2\index.js:341:20)
+    at Object.onceWrapper (node:events:509:28)
+    at PassThrough.emit (node:events:390:28)
+    at endReadableNT (node:internal/streams/readable:1343:12)
+    at processTicksAndRejections (node:internal/process/task_queues:83:21) {
+  code: 'EAUTH',
+  command: 'AUTH XOAUTH2'
+}
+[2022-09-25T02:13:00.544] [ERROR] error - Pagina no encontrada /Lalala@hotmail.com
+[2022-09-25T02:13:00.558] [ERROR] error - Pagina no encontrada /asdasadadd.com
+[2022-09-25T02:13:11.793] [ERROR] error - Error: invalid_grant: Token has been expired or revoked.
+    at C:\Users\Usuario\Documents\Programacion Coder\Programacion Backend\clase44\graphql\node_modules\nodemailer\lib\xoauth2\index.js:272:33
+    at PassThrough.<anonymous> (C:\Users\Usuario\Documents\Programacion Coder\Programacion Backend\clase44\graphql\node_modules\nodemailer\lib\xoauth2\index.js:341:20)
+    at Object.onceWrapper (node:events:509:28)
+    at PassThrough.emit (node:events:390:28)
+    at endReadableNT (node:internal/streams/readable:1343:12)
+    at processTicksAndRejections (node:internal/process/task_queues:83:21) {
+  code: 'EAUTH',
+  command: 'AUTH XOAUTH2'
+}
+[2022-09-25T02:15:57.552] [ERROR] error - Pagina no encontrada /admin/Lalala@hotmail.com
+[2022-09-25T02:15:58.590] [ERROR] error - Pagina no encontrada /admin/asdasadadd.com
+[2022-09-25T02:18:07.362] [ERROR] error - Pagina no encontrada /admin/asdasadadd.com
+[2022-09-25T02:18:07.376] [ERROR] error - Pagina no encontrada /admin/Lalala@hotmail.com
+[2022-09-25T02:18:14.067] [ERROR] error - Error: invalid_grant: Token has been expired or revoked.
+    at C:\Users\Usuario\Documents\Programacion Coder\Programacion Backend\clase44\graphql\node_modules\nodemailer\lib\xoauth2\index.js:272:33
+    at PassThrough.<anonymous> (C:\Users\Usuario\Documents\Programacion Coder\Programacion Backend\clase44\graphql\node_modules\nodemailer\lib\xoauth2\index.js:341:20)
+    at Object.onceWrapper (node:events:509:28)
+    at PassThrough.emit (node:events:390:28)
+    at endReadableNT (node:internal/streams/readable:1343:12)
+    at processTicksAndRejections (node:internal/process/task_queues:83:21) {
+  code: 'EAUTH',
+  command: 'AUTH XOAUTH2'
+}
+[2022-09-25T02:21:47.872] [ERROR] error - Pagina no encontrada /admin/Lalala@hotmail.com
+[2022-09-25T02:21:47.893] [ERROR] error - Pagina no encontrada /admin/asdasadadd.com
+[2022-09-25T02:22:00.643] [ERROR] error - Error: invalid_grant: Token has been expired or revoked.
+    at C:\Users\Usuario\Documents\Programacion Coder\Programacion Backend\clase44\graphql\node_modules\nodemailer\lib\xoauth2\index.js:272:33
+    at PassThrough.<anonymous> (C:\Users\Usuario\Documents\Programacion Coder\Programacion Backend\clase44\graphql\node_modules\nodemailer\lib\xoauth2\index.js:341:20)
+    at Object.onceWrapper (node:events:509:28)
+    at PassThrough.emit (node:events:390:28)
+    at endReadableNT (node:internal/streams/readable:1343:12)
+    at processTicksAndRejections (node:internal/process/task_queues:83:21) {
+  code: 'EAUTH',
+  command: 'AUTH XOAUTH2'
+}
+[2022-09-25T02:24:14.933] [ERROR] error - Pagina no encontrada /admin/asdasadadd.com
+[2022-09-25T02:24:14.942] [ERROR] error - Pagina no encontrada /admin/Lalala@hotmail.com
+[2022-09-25T02:24:54.279] [ERROR] error - Error: invalid_grant: Token has been expired or revoked.
+    at C:\Users\Usuario\Documents\Programacion Coder\Programacion Backend\clase44\graphql\node_modules\nodemailer\lib\xoauth2\index.js:272:33
+    at PassThrough.<anonymous> (C:\Users\Usuario\Documents\Programacion Coder\Programacion Backend\clase44\graphql\node_modules\nodemailer\lib\xoauth2\index.js:341:20)
+    at Object.onceWrapper (node:events:509:28)
+    at PassThrough.emit (node:events:390:28)
+    at endReadableNT (node:internal/streams/readable:1343:12)
+    at processTicksAndRejections (node:internal/process/task_queues:83:21) {
+  code: 'EAUTH',
+  command: 'AUTH XOAUTH2'
+}
+[2022-09-25T02:28:54.273] [ERROR] error - Pagina no encontrada /admin/asdasadadd.com
+[2022-09-25T02:28:54.283] [ERROR] error - Pagina no encontrada /admin/Lalala@hotmail.com
+[2022-09-25T02:29:03.626] [ERROR] error - Error: invalid_grant: Token has been expired or revoked.
+    at C:\Users\Usuario\Documents\Programacion Coder\Programacion Backend\clase44\graphql\node_modules\nodemailer\lib\xoauth2\index.js:272:33
+    at PassThrough.<anonymous> (C:\Users\Usuario\Documents\Programacion Coder\Programacion Backend\clase44\graphql\node_modules\nodemailer\lib\xoauth2\index.js:341:20)
+    at Object.onceWrapper (node:events:509:28)
+    at PassThrough.emit (node:events:390:28)
+    at endReadableNT (node:internal/streams/readable:1343:12)
+    at processTicksAndRejections (node:internal/process/task_queues:83:21) {
+  code: 'EAUTH',
+  command: 'AUTH XOAUTH2'
+}
+[2022-09-25T02:30:50.090] [ERROR] error - Pagina no encontrada /admin/asdasadadd.com
+[2022-09-25T02:30:50.093] [ERROR] error - Pagina no encontrada /admin/Lalala@hotmail.com
+[2022-09-25T02:31:05.717] [ERROR] error - Pagina no encontrada /admin/Lalala@hotmail.com
+[2022-09-25T02:31:05.728] [ERROR] error - Pagina no encontrada /admin/asdasadadd.com
+[2022-09-25T02:31:20.924] [ERROR] error - Error: invalid_grant: Token has been expired or revoked.
+    at C:\Users\Usuario\Documents\Programacion Coder\Programacion Backend\clase44\graphql\node_modules\nodemailer\lib\xoauth2\index.js:272:33
+    at PassThrough.<anonymous> (C:\Users\Usuario\Documents\Programacion Coder\Programacion Backend\clase44\graphql\node_modules\nodemailer\lib\xoauth2\index.js:341:20)
+    at Object.onceWrapper (node:events:509:28)
+    at PassThrough.emit (node:events:390:28)
+    at endReadableNT (node:internal/streams/readable:1343:12)
+    at processTicksAndRejections (node:internal/process/task_queues:83:21) {
+  code: 'EAUTH',
+  command: 'AUTH XOAUTH2'
+}
+[2022-09-25T02:33:02.926] [ERROR] error - Pagina no encontrada /admin/Lalala@hotmail.com
+[2022-09-25T02:33:03.852] [ERROR] error - Pagina no encontrada /admin/asdasadadd.com
+[2022-09-25T02:33:10.543] [ERROR] error - Error: invalid_grant: Token has been expired or revoked.
+    at C:\Users\Usuario\Documents\Programacion Coder\Programacion Backend\clase44\graphql\node_modules\nodemailer\lib\xoauth2\index.js:272:33
+    at PassThrough.<anonymous> (C:\Users\Usuario\Documents\Programacion Coder\Programacion Backend\clase44\graphql\node_modules\nodemailer\lib\xoauth2\index.js:341:20)
+    at Object.onceWrapper (node:events:509:28)
+    at PassThrough.emit (node:events:390:28)
+    at endReadableNT (node:internal/streams/readable:1343:12)
+    at processTicksAndRejections (node:internal/process/task_queues:83:21) {
+  code: 'EAUTH',
+  command: 'AUTH XOAUTH2'
+}
+[2022-09-25T02:34:21.482] [ERROR] error - Pagina no encontrada /admin/Lalala@hotmail.com
+[2022-09-25T02:34:21.901] [ERROR] error - Pagina no encontrada /admin/asdasadadd.com
+[2022-09-25T02:34:36.288] [ERROR] error - Error: invalid_grant: Token has been expired or revoked.
+    at C:\Users\Usuario\Documents\Programacion Coder\Programacion Backend\clase44\graphql\node_modules\nodemailer\lib\xoauth2\index.js:272:33
+    at PassThrough.<anonymous> (C:\Users\Usuario\Documents\Programacion Coder\Programacion Backend\clase44\graphql\node_modules\nodemailer\lib\xoauth2\index.js:341:20)
+    at Object.onceWrapper (node:events:509:28)
+    at PassThrough.emit (node:events:390:28)
+    at endReadableNT (node:internal/streams/readable:1343:12)
+    at processTicksAndRejections (node:internal/process/task_queues:83:21) {
+  code: 'EAUTH',
+  command: 'AUTH XOAUTH2'
+}
+[2022-09-25T02:35:58.423] [ERROR] error - Pagina no encontrada /admin/Lalala@hotmail.com
+[2022-09-25T02:35:58.432] [ERROR] error - Pagina no encontrada /admin/asdasadadd.com
+[2022-09-25T02:36:12.798] [ERROR] error - Error: invalid_grant: Token has been expired or revoked.
+    at C:\Users\Usuario\Documents\Programacion Coder\Programacion Backend\clase44\graphql\node_modules\nodemailer\lib\xoauth2\index.js:272:33
+    at PassThrough.<anonymous> (C:\Users\Usuario\Documents\Programacion Coder\Programacion Backend\clase44\graphql\node_modules\nodemailer\lib\xoauth2\index.js:341:20)
+    at Object.onceWrapper (node:events:509:28)
+    at PassThrough.emit (node:events:390:28)
+    at endReadableNT (node:internal/streams/readable:1343:12)
+    at processTicksAndRejections (node:internal/process/task_queues:83:21) {
+  code: 'EAUTH',
+  command: 'AUTH XOAUTH2'
+}
+[2022-09-25T02:51:46.660] [ERROR] error - Pagina no encontrada /Lalala@hotmail.com
+[2022-09-25T02:51:46.670] [ERROR] error - Pagina no encontrada /asdasadadd.com
+[2022-09-25T02:51:56.681] [ERROR] error - Error: invalid_grant: Token has been expired or revoked.
+    at C:\Users\Usuario\Documents\Programacion Coder\Programacion Backend\clase44\graphql\node_modules\nodemailer\lib\xoauth2\index.js:272:33
+    at PassThrough.<anonymous> (C:\Users\Usuario\Documents\Programacion Coder\Programacion Backend\clase44\graphql\node_modules\nodemailer\lib\xoauth2\index.js:341:20)
+    at Object.onceWrapper (node:events:509:28)
+    at PassThrough.emit (node:events:390:28)
+    at endReadableNT (node:internal/streams/readable:1343:12)
+    at processTicksAndRejections (node:internal/process/task_queues:83:21) {
+  code: 'EAUTH',
+  command: 'AUTH XOAUTH2'
+}
+[2022-09-25T02:56:46.045] [ERROR] error - Pagina no encontrada /admin/Lalala@hotmail.com
+[2022-09-25T02:56:47.039] [ERROR] error - Pagina no encontrada /admin/asdasadadd.com
+[2022-09-25T02:57:00.131] [ERROR] error - Error: invalid_grant: Token has been expired or revoked.
+    at C:\Users\Usuario\Documents\Programacion Coder\Programacion Backend\clase44\graphql\node_modules\nodemailer\lib\xoauth2\index.js:272:33
+    at PassThrough.<anonymous> (C:\Users\Usuario\Documents\Programacion Coder\Programacion Backend\clase44\graphql\node_modules\nodemailer\lib\xoauth2\index.js:341:20)
+    at Object.onceWrapper (node:events:509:28)
+    at PassThrough.emit (node:events:390:28)
+    at endReadableNT (node:internal/streams/readable:1343:12)
+    at processTicksAndRejections (node:internal/process/task_queues:83:21) {
+  code: 'EAUTH',
+  command: 'AUTH XOAUTH2'
+}
+[2022-09-25T03:09:35.260] [ERROR] error - Pagina no encontrada /Lalala@hotmail.com
+[2022-09-25T03:09:35.278] [ERROR] error - Pagina no encontrada /asdasadadd.com
+[2022-09-25T03:12:15.503] [ERROR] error - Error: invalid_grant: Token has been expired or revoked.
+    at C:\Users\Usuario\Documents\Programacion Coder\Programacion Backend\clase44\graphql\node_modules\nodemailer\lib\xoauth2\index.js:272:33
+    at PassThrough.<anonymous> (C:\Users\Usuario\Documents\Programacion Coder\Programacion Backend\clase44\graphql\node_modules\nodemailer\lib\xoauth2\index.js:341:20)
+    at Object.onceWrapper (node:events:509:28)
+    at PassThrough.emit (node:events:390:28)
+    at endReadableNT (node:internal/streams/readable:1343:12)
+    at processTicksAndRejections (node:internal/process/task_queues:83:21) {
+  code: 'EAUTH',
+  command: 'AUTH XOAUTH2'
+}
+[2022-09-25T03:12:53.543] [ERROR] error - Pagina no encontrada /admin/Lalala@hotmail.com
+[2022-09-25T03:12:53.557] [ERROR] error - Pagina no encontrada /admin/asdasadadd.com
+[2022-09-25T03:13:07.049] [ERROR] error - Error: invalid_grant: Token has been expired or revoked.
+    at C:\Users\Usuario\Documents\Programacion Coder\Programacion Backend\clase44\graphql\node_modules\nodemailer\lib\xoauth2\index.js:272:33
+    at PassThrough.<anonymous> (C:\Users\Usuario\Documents\Programacion Coder\Programacion Backend\clase44\graphql\node_modules\nodemailer\lib\xoauth2\index.js:341:20)
+    at Object.onceWrapper (node:events:509:28)
+    at PassThrough.emit (node:events:390:28)
+    at endReadableNT (node:internal/streams/readable:1343:12)
+    at processTicksAndRejections (node:internal/process/task_queues:83:21) {
+  code: 'EAUTH',
+  command: 'AUTH XOAUTH2'
+}
+[2022-09-25T03:17:24.823] [ERROR] error - Pagina no encontrada /admin/Lalala@hotmail.com
+[2022-09-25T03:17:24.832] [ERROR] error - Pagina no encontrada /admin/asdasadadd.com
+[2022-09-25T03:17:37.665] [ERROR] error - Error: invalid_grant: Token has been expired or revoked.
+    at C:\Users\Usuario\Documents\Programacion Coder\Programacion Backend\clase44\graphql\node_modules\nodemailer\lib\xoauth2\index.js:272:33
+    at PassThrough.<anonymous> (C:\Users\Usuario\Documents\Programacion Coder\Programacion Backend\clase44\graphql\node_modules\nodemailer\lib\xoauth2\index.js:341:20)
+    at Object.onceWrapper (node:events:509:28)
+    at PassThrough.emit (node:events:390:28)
+    at endReadableNT (node:internal/streams/readable:1343:12)
+    at processTicksAndRejections (node:internal/process/task_queues:83:21) {
+  code: 'EAUTH',
+  command: 'AUTH XOAUTH2'
+}
+[2022-09-25T03:18:19.012] [ERROR] error - Pagina no encontrada /admin/Lalala@hotmail.com
+[2022-09-25T03:18:19.033] [ERROR] error - Pagina no encontrada /admin/asdasadadd.com
+[2022-09-25T03:18:29.359] [ERROR] error - Error: invalid_grant: Token has been expired or revoked.
+    at C:\Users\Usuario\Documents\Programacion Coder\Programacion Backend\clase44\graphql\node_modules\nodemailer\lib\xoauth2\index.js:272:33
+    at PassThrough.<anonymous> (C:\Users\Usuario\Documents\Programacion Coder\Programacion Backend\clase44\graphql\node_modules\nodemailer\lib\xoauth2\index.js:341:20)
+    at Object.onceWrapper (node:events:509:28)
+    at PassThrough.emit (node:events:390:28)
+    at endReadableNT (node:internal/streams/readable:1343:12)
+    at processTicksAndRejections (node:internal/process/task_queues:83:21) {
+  code: 'EAUTH',
+  command: 'AUTH XOAUTH2'
+}
+[2022-09-25T03:21:46.298] [ERROR] error - Pagina no encontrada /admin/Lalala@hotmail.com
+[2022-09-25T03:21:46.308] [ERROR] error - Pagina no encontrada /admin/asdasadadd.com
+[2022-09-25T03:26:04.450] [ERROR] error - Pagina no encontrada /admin/Lalala@hotmail.com
+[2022-09-25T03:26:05.363] [ERROR] error - Pagina no encontrada /admin/asdasadadd.com
+[2022-09-25T03:27:18.199] [ERROR] error - Pagina no encontrada /admin/Lalala@hotmail.com
+[2022-09-25T03:27:19.105] [ERROR] error - Pagina no encontrada /admin/asdasadadd.com
+[2022-09-25T03:29:06.477] [ERROR] error - Pagina no encontrada /admin/Lalala@hotmail.com
+[2022-09-25T03:29:06.491] [ERROR] error - Pagina no encontrada /admin/asdasadadd.com
+[2022-09-25T03:31:30.683] [ERROR] error - Pagina no encontrada /admin/asdasadadd.com
+[2022-09-25T03:31:30.687] [ERROR] error - Pagina no encontrada /admin/Lalala@hotmail.com
+[2022-09-25T03:31:40.807] [ERROR] error - Pagina no encontrada /admin/Lalala@hotmail.com
+[2022-09-25T03:31:40.819] [ERROR] error - Pagina no encontrada /admin/asdasadadd.com
+[2022-09-25T03:33:41.817] [ERROR] error - Pagina no encontrada /admin/Lalala@hotmail.com
+[2022-09-25T03:33:41.830] [ERROR] error - Pagina no encontrada /admin/asdasadadd.com
+[2022-09-25T03:35:28.367] [ERROR] error - Pagina no encontrada /admin/Lalala@hotmail.com
+[2022-09-25T03:35:28.378] [ERROR] error - Pagina no encontrada /admin/asdasadadd.com
+[2022-09-25T03:35:34.567] [ERROR] error - Pagina no encontrada /admin/asdasadadd.com
+[2022-09-25T03:35:34.569] [ERROR] error - Pagina no encontrada /admin/Lalala@hotmail.com
+[2022-09-25T03:36:22.022] [ERROR] error - Pagina no encontrada /admin/asdasadadd.com
+[2022-09-25T03:36:22.026] [ERROR] error - Pagina no encontrada /admin/Lalala@hotmail.com
+[2022-09-25T03:36:29.271] [ERROR] error - Pagina no encontrada /admin/asdasadadd.com
+[2022-09-25T03:36:29.277] [ERROR] error - Pagina no encontrada /admin/Lalala@hotmail.com
+[2022-09-25T03:37:14.119] [ERROR] error - Pagina no encontrada /admin/Lalala@hotmail.com
+[2022-09-25T03:37:14.137] [ERROR] error - Pagina no encontrada /admin/asdasadadd.com
+[2022-09-25T03:43:30.510] [ERROR] error - Pagina no encontrada /admin/Lalala@hotmail.com
+[2022-09-25T03:43:30.528] [ERROR] error - Pagina no encontrada /admin/asdasadadd.com
+[2022-09-25T03:46:31.088] [ERROR] error - Pagina no encontrada /admin/asdasadadd.com
+[2022-09-25T03:46:31.112] [ERROR] error - Pagina no encontrada /admin/Lalala@hotmail.com
+[2022-09-25T03:47:55.033] [ERROR] error - Pagina no encontrada /admin/Lalala@hotmail.com
+[2022-09-25T03:47:55.046] [ERROR] error - Pagina no encontrada /admin/asdasadadd.com
+[2022-09-25T03:48:09.296] [ERROR] error - Pagina no encontrada /admin/Lalala@hotmail.com
+[2022-09-25T03:48:09.317] [ERROR] error - Pagina no encontrada /admin/asdasadadd.com
+[2022-09-25T03:51:27.401] [ERROR] error - Pagina no encontrada /admin/Lalala@hotmail.com
+[2022-09-25T03:51:27.419] [ERROR] error - Pagina no encontrada /admin/asdasadadd.com
+[2022-09-25T03:51:37.418] [ERROR] error - Pagina no encontrada /admin/Lalala@hotmail.com
+[2022-09-25T03:51:37.447] [ERROR] error - Pagina no encontrada /admin/asdasadadd.com
+[2022-09-25T03:53:04.485] [ERROR] error - Pagina no encontrada /admin/asdasadadd.com
+[2022-09-25T03:53:04.497] [ERROR] error - Pagina no encontrada /admin/Lalala@hotmail.com
+[2022-09-25T03:53:22.583] [ERROR] error - Pagina no encontrada /admin/Lalala@hotmail.com
+[2022-09-25T03:53:22.612] [ERROR] error - Pagina no encontrada /admin/asdasadadd.com
+[2022-09-25T03:53:43.694] [ERROR] error - Pagina no encontrada /admin/Lalala@hotmail.com
+[2022-09-25T03:53:43.709] [ERROR] error - Pagina no encontrada /admin/asdasadadd.com
+[2022-09-26T21:56:50.452] [ERROR] error - Pagina no encontrada /Lalala@hotmail.com
+[2022-09-26T21:56:50.469] [ERROR] error - Pagina no encontrada /asdasadadd.com
+[2022-09-26T21:57:05.556] [ERROR] error - Error: invalid_grant: Bad Request
+    at C:\Users\Usuario\Documents\Programacion Coder\Programacion Backend\clase44\graphql\node_modules\nodemailer\lib\xoauth2\index.js:272:33
+    at PassThrough.<anonymous> (C:\Users\Usuario\Documents\Programacion Coder\Programacion Backend\clase44\graphql\node_modules\nodemailer\lib\xoauth2\index.js:341:20)
+    at Object.onceWrapper (node:events:509:28)
+    at PassThrough.emit (node:events:390:28)
+    at endReadableNT (node:internal/streams/readable:1343:12)
+    at processTicksAndRejections (node:internal/process/task_queues:83:21) {
+  code: 'EAUTH',
+  command: 'AUTH XOAUTH2'
+}
+[2022-09-26T21:58:52.542] [ERROR] error - Pagina no encontrada /admin/Lalala@hotmail.com
+[2022-09-26T21:58:52.556] [ERROR] error - Pagina no encontrada /admin/asdasadadd.com
+[2022-09-26T22:06:37.926] [ERROR] error - Pagina no encontrada /admin/Lalala@hotmail.com
+[2022-09-26T22:06:38.835] [ERROR] error - Pagina no encontrada /admin/asdasadadd.com
+[2022-09-26T22:08:35.239] [ERROR] error - Pagina no encontrada /admin/Lalala@hotmail.com
+[2022-09-26T22:08:36.179] [ERROR] error - Pagina no encontrada /admin/asdasadadd.com
+[2022-09-26T22:09:50.835] [ERROR] error - Pagina no encontrada /admin/Lalala@hotmail.com
+[2022-09-26T22:09:51.709] [ERROR] error - Pagina no encontrada /admin/asdasadadd.com
+[2022-09-26T22:10:05.926] [ERROR] error - Pagina no encontrada /admin/Lalala@hotmail.com
+[2022-09-26T22:10:06.860] [ERROR] error - Pagina no encontrada /admin/asdasadadd.com
+[2022-09-26T22:12:12.018] [ERROR] error - Pagina no encontrada /api/ordenes
+[2022-09-26T22:13:04.361] [ERROR] error - Pagina no encontrada /admin/Lalala@hotmail.com
+[2022-09-26T22:13:05.270] [ERROR] error - Pagina no encontrada /admin/asdasadadd.com
+[2022-09-26T22:15:27.532] [ERROR] error - Pagina no encontrada /admin/asdasadadd.com
+[2022-09-26T22:15:27.545] [ERROR] error - Pagina no encontrada /admin/Lalala@hotmail.com
+[2022-09-26T22:15:33.554] [ERROR] error - Pagina no encontrada /admin/Lalala@hotmail.com
+[2022-09-26T22:15:33.560] [ERROR] error - Pagina no encontrada /admin/asdasadadd.com

@@ -3,6 +3,9 @@
         <h2>Productos <span id="text1"></span></h2>
         <div class="container d-flex flex-wrap justify-content-around" id="prodData">
             <!-- data here -->
+            <div class="spinner-border text-primary" role="status">
+                <span class="visually-hidden">Loading...</span>
+            </div>
         </div>
     </div>
     <br>
@@ -76,7 +79,7 @@
             .then(res => getCart() )
             .catch(err => console.log(res) )
         
-        console.log(prod)
+        //console.log(prod)
         getCart()
     }
 </script>

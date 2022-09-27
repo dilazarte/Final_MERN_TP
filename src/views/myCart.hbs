@@ -2,20 +2,31 @@
 <div class="container mt-5">
     <h1>Lista de productos</h1>
 
-    <table class="table">
-        <thead>
-            <tr>
-                <th scope="col">Descripcion</th>
-                <th scope="col">Precio</th>
-                <th scope="col">Acción</th>
-            </tr>
-        </thead>
-        <tbody id="cartProds">
-            <!-- data here! -->
-        </tbody>
-    </table>
+    {{#if items}}
+        <table class="table">
+            <thead>
+                <tr>
+                    <th scope="col">Descripcion</th>
+                    <th scope="col">Precio</th>
+                    <th scope="col">Acción</th>
+                </tr>
+            </thead>
+            <tbody id="cartProds">
+                <!-- data here! -->
+                
+            </tbody>
+        </table>
     
-    <button onclick="confirmPurchase()" class="btn btn-secondary">Finalizar Compra</button>
+        {{#if items}}
+            <button onclick="confirmPurchase()" class="btn btn-secondary" id="btn_purchase">Finalizar Compra</button>
+        {{else}}
+            <button disabled class="btn btn-secondary" id="btn_purchase">Finalizar Compra</button>
+        {{/if}}
+    
+        
+    {{else}}
+            <h3><span class="badge bg-secondary bg-opacity-50">Tu carrito está vacío.</span></h3>
+    {{/if}}
 </div>
 
 
@@ -29,8 +40,19 @@
             method: 'POST'
         })
         .then(res => res.json())
-        .then(res => getCart())
+        .then(res => {
+            //generateOrder();
+            getCart();
+            //console.log(res)
+            Swal.fire(
+                'Gracias por tu Compra!',
+                'Tu nro. de orden: '+res.order,
+                'success'
+            )
+        })
         .catch(err => console.log(err))
+        const btn_purchase = document.getElementById('btn_purchase');
+        btn_purchase.setAttribute('disabled', '')
     }
 
     function deleteProd(id){
@@ -73,4 +95,6 @@
             .catch(err => console.log(err))
     }
     getCart()
+    
+    
 </script>

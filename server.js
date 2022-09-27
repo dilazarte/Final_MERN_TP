@@ -46,6 +46,7 @@ function startServer(){
     const { routerCarrito } = require('./src/routes/api.carritos');
     const myCart = require('./src/routes/myCart');
     const {graphqlRouter} = require('./src/routes/graphql')
+    const {routerOrders} = require('./src/routes/orders')
     const { schemaProds, rootValues } = require('./src/controllers/graphqlController');
     const {graphqlHTTP} = require('express-graphql')
 
@@ -97,6 +98,7 @@ function startServer(){
     app.use('/api/productos', routerProductos) //este es el principal, quitar el de productos randoms
     app.use('/api/carritos', routerCarrito)
     app.use('/api/chat', chatsRouter)
+    app.use('/api/orders', routerOrders) //ordenes
     app.use('/login', loginRouter)
     app.use('/logout', logoutRouter)
     app.use('/admin', adminRouter)
@@ -104,11 +106,6 @@ function startServer(){
     app.use('/loginError', loginError)
     app.use('/signupError', signUpError)
     app.use('/admin/myCart/', myCart)
-    // app.use('/graphql', graphqlHTTP({
-    //     schema: schemaProds,
-    //     rootValue: rootValues,
-    //     graphiql: true
-    // }))
     app.use('/graphql', graphqlRouter)
     
     //ruta randoms
