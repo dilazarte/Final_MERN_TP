@@ -12,8 +12,6 @@ const cluster = require('cluster')
 const numCPUs = require('os').cpus().length
 const compression = require('compression');
 const {loggerInfo, loggerDebug, loggerError} = require('./src/utils/loggers');
-//const { graphqlRouter } = require('./src/routes/graphql');
-
 
 
 //utilizando minimist para setear puerto por defecto o recibirlo por parametro.-
@@ -29,7 +27,6 @@ const MODE = process.env.MODE_ENV || 'fork';
 
 
 function startServer(){
-
     //rutas
     const adminRouter = require('./src/routes/admin');
     const chatsRouter = require('./src/routes/chatRoutes')
@@ -56,7 +53,6 @@ function startServer(){
     app.use(express.static(path.join(__dirname, '/public')));
     app.use('/images/avatar', express.static(path.join(__dirname, '/public/uploads'))); //imagenes de usuarios - ruta virtual
 
-
     //template engine
     app.engine(
         'hbs',
@@ -69,7 +65,6 @@ function startServer(){
     );
     app.set('view engine', '.hbs');
     app.set('views', path.join(__dirname, './src/views'));
-
 
     //configurando sesiones en mongo.-
     const mongoOptions = {useNewUrlParser: true, useUnifiedTopology: true}
@@ -88,7 +83,6 @@ function startServer(){
     //iniciando passport.-
     app.use(passport.initialize());
     app.use(passport.session());
-
 
     //usando compression
     app.use(compression())
@@ -125,7 +119,6 @@ function startServer(){
     })
     app.use('*', notFound)
     
-
     const { Server: HttpServer } = require('http');
     const { Server: IOServer } = require('socket.io');
 
@@ -146,7 +139,6 @@ function startServer(){
     })
     serverON.on('error', error=> loggerError.error(`Error del servidor ${error}`))
 }
-
 
 
 if(MODE == 'cluster' && cluster.isMaster){

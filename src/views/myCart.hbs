@@ -41,9 +41,7 @@
         })
         .then(res => res.json())
         .then(res => {
-            //generateOrder();
             getCart();
-            //console.log(res)
             Swal.fire(
                 'Gracias por tu Compra!',
                 'Tu nro. de orden: '+res.order,
@@ -72,7 +70,7 @@
             .then(res => res.json())
             .then(res => {
                 const data = res.map(el => {
-                    console.log(el)
+                    
                     return(
                         `
                             <tr>
